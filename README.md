@@ -1,6 +1,6 @@
 ## SRF05 Ultrasonic Sensor library for STM32 HAL
 
-![GY906](https://www.researchgate.net/publication/324750258/figure/fig2/AS:619286246739970@1524660755254/SRF05-ultrasonic-sensor-and-conical-beam-pattern-of-the-sensor.png)
+![GY906](https://images-na.ssl-images-amazon.com/images/I/41HDU%2BzzQjL.jpg)
 
 *	Author:     Amin Hosseini
 *	WebSite:    https://www.elecomp-tech.ir
